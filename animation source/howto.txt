@@ -1,0 +1,2 @@
+export sprite sheet from photoshop
+import sprite sheet to aseprite, export as gif
