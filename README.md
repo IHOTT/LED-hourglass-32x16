@@ -1,6 +1,8 @@
 # LED-hourglass-32x16
  
-# Easy Install
+ ![LED Hourglass](demo.gif)
+
+# How to flash your ESP32
 1. [Download the latest ````hourglass.bin```` and ````program flash.bat```` from the Releases tab](https://github.com/IHOTT/LED-hourglass-32x16/releases)
 2. [Download this flashing tool](https://github.com/espressif/esptool/releases) and copy ````esptool.exe```` to the same place as ````program flash.bat````
 3. [Download the USB<->Serial driver here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers), install and restart
