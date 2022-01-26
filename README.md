@@ -7,5 +7,5 @@
 2. [Download this flashing tool](https://github.com/espressif/esptool/releases) and copy ````esptool.exe```` to the same place as ````program flash.bat````
 3. [Download the USB<->Serial driver here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers), install and restart
 3. Plug in your ESP32 (make sure your USB cable does data AND charging!)
-4. Open ````program flash.bat```` and make sure the right COM port is written. You might need to replicate a similar command line manually if you're not on windows.
+4. Open ````program flash.bat```` and make sure the right COM port is written (check Device Manager -> Ports). You might need to modify/replicate this command line manually if you're not on Windows!
 5. Run ````program flash.bat````!
